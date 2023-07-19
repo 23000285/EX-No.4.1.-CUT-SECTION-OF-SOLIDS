@@ -41,7 +41,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
-![3 2 PVH COMPLETED v1_page-0001](https://github.com/23000285/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/138970859/5325871f-14d4-4907-afb1-1fa6b4a9c982)
+![3 2_page-0001 (1)](https://github.com/23000285/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/138970859/fe393b79-1a16-45fc-9621-cbc9a01b757f)
 
 ## RESULT:
 
